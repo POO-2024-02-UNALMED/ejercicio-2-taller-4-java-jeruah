@@ -22,14 +22,14 @@ public class ObjTaller4B {
 //  static String funcion(short a) {
 //      return "Entra a short: " + a;
 //  }
-    static String funcion (int a) {
-        return "Entra a int: " + a;
-        }
-        
+//    static String funcion (int a) {
+//        return "Entra a int: " + a;
+//        }
+//
     static String funcion (double a) {
         return "Entra a double: " + a;
         }
-        
+//
 //  static String funcion (float a) {
 //      return "Entra a float: " + a;
 //  }
